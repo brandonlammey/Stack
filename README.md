@@ -12,6 +12,13 @@ This generic templated stack data structure will create a stack object with a po
 
 To provide a templated stack data structure to be used in any C++ program.  
 
+## Configure
+
+Remove Makefile and main.cpp
+Add to personal code and Makefile 
+Include with `#include "Stack.h"`
+
+
 ## Tests
 
 #### **Currently in progress of adding test cases!**
