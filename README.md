@@ -21,7 +21,7 @@ Include with `#include "Stack.h"`
 
 ## Tests
 
-#### **Currently in progress of adding test cases!**
+#### **Currently working on adding test cases!**
 
 ## Author
 
